@@ -1,12 +1,7 @@
 <h1>🥃 Brett Terpstra</h1>
-<br /> 
-
-                    
-`**Digital Craftsman (Developer / Programmer)**`
-
-                    
 
 <p align="left">Software Developer and Writer @oracle-devrel, mad coder, blogger, podcaster, cat lover. I mean, I like dogs… but they're not cats.</p>
+
 <p align="left"> 
   <a href="https://github.com/ttscoff?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ttscoff?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -21,53 +16,21 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ttscoff?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
----
-<br />
-
-                    
-
-<h2>Languages and Tools</h2> 
-<p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=ruby,swift,js&perline=9"  />
-</p>
-<br />
-
-                    
-
 <p><a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttscoff&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="ttscoff" /></a>
   <a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttscoff&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="ttscoff" /></a>
 </p>
 
-<br />
-
 <p>&nbsp;<a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttscoff&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="ttscoff" /></a>
 <a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttscoff&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="ttscoff" /></a>
 </p> 
-<br>
-<br />
 
 <p><a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=ttscoff&theme=nightowl#gh-dark-mode-only" alt="ttscoff"/></a>
 <a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=ttscoff&theme=vue#gh-light-mode-only" alt="ttscoff"/></a></p>
-<br/>
-<br />
 
 <p><a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ttscoff&theme=nightowl#gh-dark-mode-only" alt="ttscoff" /></a>
 <a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ttscoff&theme=vue#gh-light-mode-only" alt="ttscoff" /></a></p>
-<br/>
 
 ---
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/ttscoff/gather-cli#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttscoff&repo=gather-cli&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/ttscoff/gather-cli#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttscoff&repo=gather-cli&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
 
 <h2>Connect With Me</h2> 
 <p align="left">
