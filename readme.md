@@ -16,21 +16,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ttscoff?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
-<p><a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttscoff&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="ttscoff" /></a>
-  <a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttscoff&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="ttscoff" /></a>
-</p>
-
 <p>&nbsp;<a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttscoff&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="ttscoff" /></a>
 <a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ttscoff&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="ttscoff" /></a>
 </p> 
-
-<p><a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=ttscoff&theme=nightowl#gh-dark-mode-only" alt="ttscoff"/></a>
-<a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=ttscoff&theme=vue#gh-light-mode-only" alt="ttscoff"/></a></p>
-
-<p><a href="https://github.com/ttscoff#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ttscoff&theme=nightowl#gh-dark-mode-only" alt="ttscoff" /></a>
-<a href="https://github.com/ttscoff#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ttscoff&theme=vue#gh-light-mode-only" alt="ttscoff" /></a></p>
-
----
 
 <h2>Connect With Me</h2> 
 <p align="left">
