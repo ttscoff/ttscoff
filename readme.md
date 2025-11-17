@@ -1,6 +1,6 @@
 <h1>🥃 Brett Terpstra</h1>
 
-<p align="left">Software Developer and Writer @oracle-devrel, mad coder, blogger, podcaster, cat lover. I mean, I like dogs… but they're not cats.</p>
+<p align="left">Software Developer and Writer, formerly @oracle-devrel, mad coder, blogger, podcaster, cat lover. I mean, I like dogs… but they're not cats.</p>
 
 <p align="left"> 
   <a href="https://github.com/ttscoff?tab=repositories&sort=stargazers#gh-light-mode-only">
