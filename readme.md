@@ -1,4 +1,4 @@
-<h1>🥃 Brett Terpstra</h1>
+<h1><img alt="BT Mark" width="30px" src="https://camo.githubusercontent.com/9c1df696406a8e5f43767fa0775ff9d6e3bd6e7057b65178ed6156b4801d6a6d/68747470733a2f2f66726f6d2e747473636f66662e6d652f62742d6d61726b2e737667" data-canonical-src="https://from.ttscoff.me/bt-mark.svg"> Brett Terpstra (ttscoff)</h1>
 
 <p align="left">Software Developer and Writer, formerly @oracle-devrel, mad coder, blogger, podcaster, cat lover. I mean, I like dogs… but they're not cats.</p>
 
