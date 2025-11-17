@@ -22,7 +22,7 @@
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://instagram.com/ttscoff" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttscoff" /></a>
-<a href="https://www.linkedin.com/in/brettterpstra/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://instagram.com/ttscoff" target="_blank" title="Find me on Instagram"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttscoff" /></a>
+<a href="https://www.linkedin.com/in/brettterpstra/" target="_blank" title="Find me on LinkedIn"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://hachyderm.io/@ttscoff/" target="_blank" title="Find me on Mastodon"><img align="left" alt="mastodon" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/mastodon.svg" /></a>
 </p>
-<p>Also follow me <a href="https://hachyderm.io/@ttscoff/" target="_blank">on Mastodon!</a></p>
